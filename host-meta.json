@@ -1,0 +1,23 @@
+{
+  "subject": "https://kpherox.dev",
+  "aliases": [
+    "https://kphrx.github.io"
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "type": "text/html",
+      "href": "https://kpherox.dev/"
+    },
+    {
+      "rel": "payment",
+      "href": "https://github.com/sponsors/kphrx",
+      "title": "GitHub Sponsors"
+    },
+    {
+      "rel": "payment",
+      "href": "https://revolut.me/kphrx",
+      "title": "Revolut"
+    }
+  ]
+}

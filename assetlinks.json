@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.kpherox.atsky",
+    "sha256_cert_fingerprints": [
+      "5A:C3:6F:D5:FA:B1:F4:77:44:1A:C6:E7:41:EA:35:1A:A8:59:AE:5B:32:2F:C1:0C:45:BB:8B:72:DC:32:34:85"
+    ]
+  }
+}]

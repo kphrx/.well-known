@@ -1,0 +1,10 @@
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix : <#> .
+
+:kpherox_dev a void:Dataseti;
+    dcterms:title "kpherox.dev";
+    dcterms:description "identity page";
+    dcterms:license "(c) 2023 kphrx";
+    void:uriSpace "https://kpherox.dev/";
+    .
