@@ -1,14 +1,13 @@
 {
   "names": {
-    "_": "04317e40be42f3371053e47d63186c1554a362ddafb816ed5df4bee1aad3ed54"
+    "_": "04317e40be42f3371053e47d63186c1554a362ddafb816ed5df4bee1aad3ed54",
+    "kphrx": "b06e337d77fe68c0742de266822b8c97626d8f8ab6943641dedf8b88a3da4465"
   },
   "relays": {
     "04317e40be42f3371053e47d63186c1554a362ddafb816ed5df4bee1aad3ed54": [
-      "wss://relay.nostr.info",
-      "wss://relay.damus.io",
-      "wss://nostr-relay.eniehack.net",
-      "wss://relay.snort.social",
+      "wss://nostr.zebedee.cloud",
       "wss://nostr.fediverse.jp",
+      "wss://nostr.h3z.jp",
       "wss://relay-jp.nostr.wirednet.jp"
     ]
   }
